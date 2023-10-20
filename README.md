@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💜
 
-<!--
-**Maisamodtkowski/Maisamodtkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Maisa Modtkowski.
 
-Here are some ideas to get you started:
+-Tenho 16 anos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando no [Alura](https://www.alura.com.br);
+
+-Estou me desenvolvendo na Linguagem JavaScript;
+
+-Utilizo este espaço para minha organização e compartilhamento de meus projetos desenvolvidos;
+
+![](https://media.tenor.com/MYXc1fDBfJkAAAAC/hydradx-hydra.gif)
