@@ -8,6 +8,4 @@ Me chamo Maisa Modtkowski.
 
 -Estou me desenvolvendo na Linguagem JavaScript;
 
--Utilizo este espaço para minha organização e compartilhamento de meus projetos desenvolvidos;
-
-![](https://tenor.com/bIDGv.gif)
+-Utilizo este espaço para minha organização e compartilhamento de meus projetos desenvolvidos.
